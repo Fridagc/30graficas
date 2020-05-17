@@ -1,0 +1,38 @@
+from,to,value
+Bette Porter,Tina Kennard,1
+Bette Porter,Jodi Lerner,1
+Bette Porter,Alice Pieszecki,1
+Tina Kennard,Bette Porter,1
+Helena Peabody,Tina Kennard,1
+Helena Peabody,Winnie Mann,1
+Helena Peabody,Dylan Moreland,1
+Helena Peabody,Leight Ostin,1
+Helena Peabody,"Eva ""Papi"" Torres",1
+"Eva ""Papi"" Torres",Tasha Williams,1
+"Eva ""Papi"" Torres",Carmen de la Pica,1
+Tasha Williams,Alice Pieszecki,1
+Alice Pieszecki,"Eva ""Papi"" Torres",1
+Alice Pieszecki,Ura Refson,1
+Alice Pieszecki,Phyllis Kroll,1
+Alice Pieszecki,Lara Perkins,1
+Alice Pieszecki,Dana Fairbans,1
+Alice Pieszecki,Gregg,1
+Alice Pieszecki,Nina,1
+Dana Fairbans,Tonya,1
+Dana Fairbans,Lara Perkins,1
+Dana Fairbans,Jenny Schecter,1
+Shane McCutcheon,Paige,1
+Shane McCutcheon,Lacey,1
+Shane McCutcheon,Mandy,1
+Shane McCutcheon,Carmen de la Pica,1
+Carmen de la Pica,"Eva ""Papi"" Torres",1
+Carmen de la Pica,Shane McCutcheon,1
+Carmen de la Pica,Robin,1
+Carmen de la Pica,Jenny Schecter,1
+Jenny Schecter,Robin,1
+Jenny Schecter,Nick Barashov,1
+Jenny Schecter,Tim Haspel,1
+Jenny Schecter,Moira/Max Sweeney,1
+Jenny Schecter,Marina Ferrer,1
+Marina Ferrer,Robin,1
+Moira/Max Sweeney,Jenny Schecter,1
